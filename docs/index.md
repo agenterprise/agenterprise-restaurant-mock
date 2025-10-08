@@ -35,15 +35,15 @@ Weitere Filialen sind in Planung – vielleicht bald auch in deiner Nähe!
 ## Öffnungszeiten
 Unsere Filialen haben täglich für dich geöffnet:
 
-|Wochentag|Öffnungszeiten|
+| Wochentag | Öffnungszeiten |
 |---------|--------------|
-|Montag   |10:00 – 22:00 Uhr|
-|Dienstag |10:00 – 22:00 Uhr|
-|Mittwoch |10:00 – 22:00 Uhr|
-|Donnerstag|10:00 – 23:00 Uhr|
-|Freitag|10:00 – 00:00 Uhr|
-|Samstag|11:00 – 00:00 Uhr|
-|Sonntag|11:00 – 21:00 Uhr|
+| Montag   | 10:00 – 22:00 Uhr|
+| Dienstag | 10:00 – 22:00 Uhr|
+| Mittwoch | 10:00 – 22:00 Uhr|
+| Donnerstag | 10:00 – 23:00 Uhr|
+| Freitag | 10:00 – 00:00 Uhr|
+| Samstag | 11:00 – 00:00 Uhr|
+| Sonntag | 11:00 – 21:00 Uhr|
 
 ## 👩‍🍳 Offene Stellen
 Werde Teil der Möwen-Crew! Wir suchen:
